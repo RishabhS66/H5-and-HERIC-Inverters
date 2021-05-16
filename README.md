@@ -8,7 +8,7 @@ H5 inverter has been simulated in Simulink.
 **Circuit Diagram:**
 <div align = "center">
   <kbd>
-    <img src = "https://user-images.githubusercontent.com/39689610/118404784-088ef880-b692-11eb-8551-d1a0e7bbcb94.png">
+    <img src = "https://user-images.githubusercontent.com/39689610/118404784-088ef880-b692-11eb-8551-d1a0e7bbcb94.png" width = "678" height = "329">
   </kbd>
 </div>
  <br> 
@@ -26,7 +26,7 @@ HERIC (Highly Efficient and Reliable Inverter Concept) inverter has been simulat
 **Circuit Diagram:**
 <div align = "center">
   <kbd>
-    <img src = "https://user-images.githubusercontent.com/39689610/118404792-13e22400-b692-11eb-8ff4-f7102c1f4bbf.png">
+    <img src = "https://user-images.githubusercontent.com/39689610/118404792-13e22400-b692-11eb-8ff4-f7102c1f4bbf.png" width = "678" height = "329">
   </kbd>
 </div>
 <br>
